@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MJspamApp</string>
+    <!-- MJspamApp -->
+    <string name="title_activity_ongoing">Pågående Auktioner</string>
+    <string name="title_activity_details">Detaljer</string>
+    <string name="action_home">Hem</string>
+
+
+    <string name="bread">Nackademiska Auktionsfrämjandet är Nordens ledande auktionshus. Till oss kommer kunder som vill sälja, värdera och handla. Nackademiska Auktionsfrämjandet når en bred publik i Sverige och resten av världen.
+Vi ser som vårt uppdrag att med integritet och diskretion hjälpa alla våra kunder. Vårt främsta mål är att garantera rättvis och etisk handel i vårt auktionshus så att ingen säljare eller köpare lider skada.
+        På den här appen kan du se alla våra pågående auktioner samt detaljerad information om dessa. Vill du lägga ett bud på någon av dessa auktioner så är du välkommen att besöka vår hemsida:</string>
+</resources>
